@@ -1,0 +1,16 @@
+com\e2etests\automation\pageObject\DeconnexionPageObject.class
+com\e2etests\automation\pageObject\TestPanierPageObject.class
+com\e2etests\automation\stepDefinition\LogoutStepDefintion.class
+com\e2etests\automation\pageObject\PanierPageObject.class
+com\e2etests\automation\stepDefinition\LoginStepDefinition.class
+com\e2etests\automation\pageObject\AuthentificationPageObject.class
+com\e2etests\automation\stepDefinition\PanierStepDefinition.class
+com\e2etests\automation\utils\ConfigFileReader.class
+com\e2etests\automation\utils\TearDown.class
+com\e2etests\automation\pageObject\LogoutPageObject.class
+com\e2etests\automation\RunWebSuiteTest.class
+com\e2etests\automation\utils\Setup.class
+com\e2etests\automation\pageObject\LoginPageObject.class
+com\e2etests\automation\stepDefinition\AuthentificationStepDefinition.class
+com\e2etests\automation\stepDefinition\TestPanierStepDefinition.class
+com\e2etests\automation\stepDefinition\DeconnexionStepDefinition.class
